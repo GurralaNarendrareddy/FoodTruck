@@ -1,2 +1,2 @@
 # FoodTruck
-Foo Truck App
+Food Truck App
